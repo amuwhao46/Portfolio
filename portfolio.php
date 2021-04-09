@@ -11,18 +11,23 @@
       <header class="bg-red-600 p-4 shadow inset-y-0 top-0">
          <div class="text-center text-lg mx-auto">Oke's Journey</div>
       </header>
-      <div class="text-black shadow">
+      <div class="text-black">
          <main class="flex p-10">
-            <p>September 2000, the year I was born. On that wonderful day I was brought into the world despite not having a choice.</p>
-            <div>
-              <div class="github-card" data-github="amuwhao46" data-width="400" data-height="" data-theme="default"></div>
-              <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-              <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-              <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="oke-oghene-amuwha-1b1489203"><a class="LI-simple-link" href='https://www.linkedin.com/in/oke-oghene-amuwha-1b1489203?trk=profile-badge'>Oke-Oghene Amuwha</a></div>
+            <div class="flex flex-col w-full">
+              <p>September 2000, the year I was born. On that wonderful day I was brought into the world despite not having a choice.</p>
+                <!--<img src="image007_lrg.jpg" alt="ship">-->
+                <div class="flex justify-end">
+                  <!--Github badge-->
+                  <div class="github-card" data-github="amuwhao46" data-width="400" data-height="" data-theme="default"></div>
+                  <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+                  <!--Linkedin badge-->
+                  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+                  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="oke-oghene-amuwha-1b1489203"><a class="LI-simple-link" href='https://www.linkedin.com/in/oke-oghene-amuwha-1b1489203?trk=profile-badge'>Oke-Oghene Amuwha</a></div>
+                </div>
             </div>
          </main>
       </div>
-      <footer class="bg-gray-800 p-4 shadow bottom-0 absolute w-full">
+      <footer class="bg-gray-800 p-4 bottom-0 absolute w-full">
          <p>Oke-Oghene Amuwha</p>
          <p>Custom Portfolio</p>
       </footer>
