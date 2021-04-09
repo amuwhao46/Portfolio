@@ -8,8 +8,8 @@
   <title>Portfolio</title>
 </head>
 <body class="bg-red-600">
-  <header class="text-center text-white text-lg mx-auto">Oke's Journey</header>
+    <header class="bg-white p-4 shadow inset-y-0 top-0"><div class="text-center text-lg mx-auto">Oke's Journey</div></header>
   <main></main>
-  <footer></footer>
+  <footer class="bg-white p-4 shadow inset-y-0 top-0">Testing</footer>
 </body>
 </html>
