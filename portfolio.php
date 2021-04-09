@@ -8,8 +8,13 @@
   <title>Portfolio</title>
 </head>
 <body class="bg-red-600">
-    <header class="bg-white p-4 shadow inset-y-0 top-0"><div class="text-center text-lg mx-auto">Oke's Journey</div></header>
-  <main></main>
-  <footer class="bg-white p-4 shadow inset-y-0 top-0">Testing</footer>
+  <header class="bg-white p-4 shadow inset-y-0 top-0"><div class="text-center text-lg mx-auto">Oke's Journey</div></header>
+  <div class="text-white">
+    <main>writing stuff random stuff for the main.</main>
+  </div>
+  <footer class="bg-gray-100 p-4 shadow inset-y-0 bottom-0">
+  <p>Oke-Oghene Amuwha</p>
+  <p>Custom Portfolio</p>
+  </footer>
 </body>
 </html>
