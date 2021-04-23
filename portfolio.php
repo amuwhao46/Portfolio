@@ -8,7 +8,7 @@
       <title>Portfolio - Home</title>
    </head>
    <body class="bg-gray-700 min-h-screen flex flex-col min-w-screen">
-      <header class="bg-gray-300 p-4 shadow inset-y-0 top-0">
+      <header class="bg-gray-300 p-4 shadow inset-y-0 top-0 mb-10">
          <div class="text-center text-lg mx-auto">Oke's Journey</div>
       </header>
         <main class="flex justify-center text-gray-800">
@@ -19,8 +19,20 @@
           <p>Had to teach myself about portfowarding and connecting multiple servers to one server and making them work with each other</p>
           <p>Testing next set of lines</p>
           </div>
+          <!--Enclosed in the whole card-->
           <div class="flex items-center space-x-10 justify-center mt-10">
+
+
+
+
           <!--Card Component-->
+          <div>
+          <div class="bg-blue-500 text-white p-5 rounded-lg shadow flex flex-col"> 
+                    <!--Logo-->
+                    <div>
+            <p>LinkedIn</p>
+            </div>
+          </div>
           <div class="shadow rounded-lg p-5">
           <!--name-->
             <div>
@@ -32,14 +44,39 @@
             </div>
             <!--Hyperlink-->
             <div>
-            <p>name.com</p>
+            <a href="https://www.linkedin.com/in/oke-oghene-amuwha-1b1489203/">Oke's linkedIn</a>
+            </div>
             </div>
             </div>
             <!--End card-->
-            <div>
-            lol
+
+
+          <!--Card Component-->
+          <div>
+          <div class="bg-blue-500 text-white p-5 rounded-lg shadow flex flex-col"> 
+                    <!--Logo-->
+                    <div>
+            <p>LinkedIn</p>
             </div>
           </div>
+          <div class="shadow rounded-lg p-5">
+          <!--name-->
+            <div>
+            <p>Oke-Oghene Amuwha</p>
+            </div>
+            <!--Username-->
+            <div>
+            <p>@name</p>
+            </div>
+            <!--Hyperlink-->
+            <div>
+            <a href="https://www.linkedin.com/in/oke-oghene-amuwha-1b1489203/">Oke's linkedIn</a>
+            </div>
+            </div>
+            </div>
+            <!--End card-->
+          </div>
+
          <!-- <div class="flex items-center space-x-2">
           <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> 
             <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="oke-oghene-amuwha-1b1489203"><a class="LI-simple-link" href='https://www.linkedin.com/in/oke-oghene-amuwha-1b1489203?trk=profile-badge'>Oke-Oghene Amuwha</a></div>
@@ -58,7 +95,7 @@
             <!--Github badge-->
         </div>
         </main>
-      <footer class="bg-gray-800 p-4 bottom-0 absolute w-full text-gray-200">
+      <footer class="bg-gray-800 p-4 bottom-0 absolute w-full text-gray-200 mt-10">
          <p>Oke-Oghene Amuwha</p>
          <p>Custom Portfolio</p>
       </footer>
