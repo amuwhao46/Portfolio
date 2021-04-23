@@ -1,3 +1,46 @@
+<?php
+
+class card {
+
+   public $platform;
+   public $username;
+   public $link;
+
+   function __construct($platform, $username, $link) {
+      set_platform($platform);
+      set_username($username);
+      set_link($link);
+   }
+
+   function set_platform($platform) {
+      $this->platform = $platform;
+   }
+
+   function set_username($username) {
+      $this->username = $username;
+   }
+
+   function set_link($link) {
+      $this->link = $link;
+   }
+
+   function get_platform($platform) {
+      return $this ->$platform;
+   }
+
+   function get_username($username) {
+      return $this ->$username;
+   }
+   
+   function get_link($link) {
+      return $this ->$link;
+   }
+}
+?>
+
+
+
+
 <!doctype html>
 <html>
    <head>
@@ -70,7 +113,7 @@
             </div>
             <!--Hyperlink-->
             <div>
-            <a href="https://www.linkedin.com/in/oke-oghene-amuwha-1b1489203/">Oke's linkedIn</a>
+            <a href="https://www.linkedin.com/in/oke-oghene-amuwha-1b1489203/">Link to LinkedIn</a>
             </div>
             </div>
             </div>
