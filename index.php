@@ -6,6 +6,12 @@
 </head>
 
 <body class="bg-gray-200 min-h-screen flex flex-col min-w-screen">
+<!--header-->
+
+<!--main-->
+
+<!--footer-->
+
 </body>
 
 </html>
