@@ -18,7 +18,7 @@
       <!--Personal Info-->
       <span>
         <p>Currently attending Wayne State University</p>
-        <p>Expected graduation: MAy 2023</p>
+        <p>Expected graduation: May 2023</p>
         <p>3.5 GPA</p>
         <p>Postogon web application</p>
       </span>
