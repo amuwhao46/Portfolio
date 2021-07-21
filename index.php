@@ -2,6 +2,7 @@
   <head>
     <title>Portfolio - Home</title>
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <meta charset="UTF-8">
   </head>
   <body class="bg-gradient-to-r from-red-600 to-red-400 min-h-screen flex flex-col min-w-screen">
     <!--header-->
