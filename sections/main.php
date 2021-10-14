@@ -43,8 +43,8 @@
             <p>@name</p>
           </div>
           <!--Hyperlink-->
-          <div>
-            <a href="https://www.linkedin.com/in/oke-oghene-amuwha-1b1489203/">Oke's linkedIn</a>
+          <div class="text-gray-500">
+            <a href="https://www.linkedin.com/in/oke-oghene-amuwha-1b1489203/">Click to open</a>
           </div>
         </div>
       </div>
@@ -67,8 +67,8 @@
             <p>@amuwhao46</p>
           </div>
           <!--Hyperlink-->
-          <div>
-            <a href="https://github.com/amuwhao46">Link to Github</a>
+          <div class="text-gray-500">
+            <a href="https://github.com/amuwhao46">Click to open</a>
           </div>
         </div>
       </div>
